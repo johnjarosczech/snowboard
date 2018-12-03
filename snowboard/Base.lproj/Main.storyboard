@@ -13,7 +13,7 @@
         <!--Map-->
         <scene sceneID="Sy8-hf-Nbw">
             <objects>
-                <viewController id="oWF-ag-53m" sceneMemberID="viewController">
+                <viewController id="oWF-ag-53m" customClass="MapViewController" customModule="snowboard" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="4pR-ZR-63y">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
